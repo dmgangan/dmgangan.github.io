@@ -12,7 +12,7 @@ show_call_box: true
 
 Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-![Wedding dancing](images/illustrations/pointing.svg)
+![Wedding dancing](images/illustrations/wedding.svg)
 
 Here we will write
 
